@@ -1,0 +1,23 @@
+#pp_custom_css_js_dev_page.editor-expanded,
+#pp_custom_css_js_dev_page.editor-expanded {
+  width      : 100%;
+  box-sizing : border-box;
+  height     : 100%;
+  z-index    : 999999;
+  position   : fixed;
+  top        : 0;
+  left       : 0;
+  margin     : 0;
+  padding    : 10px 10px 20px;
+
+  .page-title,
+  #pp-custom-css-js-dev-editor-sidebar {
+    display : none;
+    }
+
+  #pp-custom-css-js-dev-editor-buttons-bottom {
+    margin-right : 0;
+    }
+
+  }
+

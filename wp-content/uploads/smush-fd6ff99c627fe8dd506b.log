@@ -1,0 +1,241 @@
+[2020-07-14 17:07:09 : INFO] - Re_Smush_It_Task with attachment ID : 303, autocreated on : July 14, 2020 05:07:08 
+[2020-07-14 17:09:40 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:24 : INFO] - 
+ 
+[2020-07-14 17:13:24 : INFO] - Header for logs at time:  Tue, 14 Jul 2020 17:13:24 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2020-07-14 17:13:24 : INFO] - WP: 5.4.2 
+[2020-07-14 17:13:24 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1106-aws #117-Ubuntu SMP Wed Apr 8 09:52:02 UTC 2020 x86_64) 
+[2020-07-14 17:13:24 : INFO] - MySQL: 8.0.17 
+[2020-07-14 17:13:24 : INFO] - WPLANG: pt_BR 
+[2020-07-14 17:13:24 : INFO] - Server: Apache 
+[2020-07-14 17:13:24 : INFO] - Outbound connections: N 
+[2020-07-14 17:13:24 : INFO] - safe_mode: 0 
+[2020-07-14 17:13:24 : INFO] - max_execution_time: 120000 
+[2020-07-14 17:13:24 : INFO] - memory_limit: 256M (used: 65.4M | 6M) 
+[2020-07-14 17:13:24 : INFO] - multisite: N 
+[2020-07-14 17:13:24 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2020-07-14 17:13:24 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-07-14 17:13:24 : INFO] - Set semaphore last lock (smush) time to 2020-07-14 17:13:24 
+[2020-07-14 17:13:24 : INFO] - Semaphore lock (smush) complete 
+[2020-07-14 17:13:24 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2020-07-14 17:13:24 : INFO] - Task with ID 35 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-07-14 17:13:24 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2020-07-14 17:13:24 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:24 : INFO] - 100 
+[2020-07-14 17:13:25 : INFO] - Backing up the original image - 2020/07/origgami-site-base-v3-header-origami-bird-updraft-pre-smush-original.png 
+[2020-07-14 17:13:25 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:25 : INFO] - 100 
+[2020-07-14 17:13:26 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:26 : INFO] - 100 
+[2020-07-14 17:13:26 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:26 : INFO] - 100 
+[2020-07-14 17:13:27 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:27 : INFO] - 100 
+[2020-07-14 17:13:27 : INFO] - Re_Smush_It_Task with attachment ID : 304, autocreated on : July 14, 2020 05:09:40 
+[2020-07-14 17:13:27 : INFO] - 100 
+[2020-07-14 17:13:28 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/origgami-site-base-v3/wp-content/uploads/2020/07/origgami-site-base-v3-header-origami-bird.png.The file was compressed from 9.71 KB to 6.28 KB saving 35.32 percent using WP-Optimize 
+[2020-07-14 17:13:28 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2020-07-14 17:13:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-14 17:13:28 : INFO] - Semaphore (smush) unlocked 
+[2020-07-14 17:13:28 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-07-14 17:13:28 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-14 17:13:28 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-07-14 17:17:08 : INFO] - Re_Smush_It_Task with attachment ID : 307, autocreated on : July 14, 2020 05:17:08 
+[2020-07-14 17:17:57 : INFO] - Re_Smush_It_Task with attachment ID : 308, autocreated on : July 14, 2020 05:17:57 
+[2020-07-14 17:19:36 : INFO] - Re_Smush_It_Task with attachment ID : 309, autocreated on : July 14, 2020 05:19:36 
+[2020-07-14 17:22:13 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : July 14, 2020 05:22:13 
+[2020-07-14 17:23:34 : INFO] - 
+ 
+[2020-07-14 17:23:34 : INFO] - Header for logs at time:  Tue, 14 Jul 2020 17:23:34 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2020-07-14 17:23:34 : INFO] - WP: 5.4.2 
+[2020-07-14 17:23:34 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1106-aws #117-Ubuntu SMP Wed Apr 8 09:52:02 UTC 2020 x86_64) 
+[2020-07-14 17:23:34 : INFO] - MySQL: 8.0.17 
+[2020-07-14 17:23:34 : INFO] - WPLANG: pt_BR 
+[2020-07-14 17:23:34 : INFO] - Server: Apache 
+[2020-07-14 17:23:34 : INFO] - Outbound connections: N 
+[2020-07-14 17:23:34 : INFO] - safe_mode: 0 
+[2020-07-14 17:23:34 : INFO] - max_execution_time: 120000 
+[2020-07-14 17:23:34 : INFO] - memory_limit: 256M (used: 65.4M | 12M) 
+[2020-07-14 17:23:34 : INFO] - multisite: N 
+[2020-07-14 17:23:34 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2020-07-14 17:23:34 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-07-14 17:23:34 : INFO] - Set semaphore last lock (smush) time to 2020-07-14 17:23:34 
+[2020-07-14 17:23:34 : INFO] - Semaphore lock (smush) complete 
+[2020-07-14 17:23:34 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2020-07-14 17:23:34 : INFO] - Task with ID 37 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-07-14 17:23:34 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2020-07-14 17:23:34 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-07-14 17:23:34 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2020-07-14 17:23:34 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2020-07-14 17:23:34 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2020-07-14 17:23:34 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : July 14, 2020 05:22:13 
+[2020-07-14 17:23:34 : INFO] - 100 
+[2020-07-14 17:23:35 : INFO] - Backing up the original image - 2020/07/origgami-site-base-v3-header-origami-updraft-pre-smush-original.png 
+[2020-07-14 17:23:35 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : July 14, 2020 05:22:13 
+[2020-07-14 17:23:35 : INFO] - 100 
+[2020-07-14 17:23:36 : INFO] - Re_Smush_It_Task with attachment ID : 310, autocreated on : July 14, 2020 05:22:13 
+[2020-07-14 17:23:36 : INFO] - 100 
+[2020-07-14 17:23:36 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/origgami-site-base-v3/wp-content/uploads/2020/07/origgami-site-base-v3-header-origami.png.The file was compressed from 9.41 KB to 7.25 KB saving 23 percent using WP-Optimize 
+[2020-07-14 17:23:36 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2020-07-14 17:23:36 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-14 17:23:36 : INFO] - Semaphore (smush) unlocked 
+[2020-07-14 17:23:36 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2020-07-14 17:23:36 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-14 17:23:36 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2020-07-14 17:34:25 : INFO] - 
+ 
+[2020-07-14 17:34:25 : INFO] - Header for logs at time:  Tue, 14 Jul 2020 17:34:25 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2020-07-14 17:34:25 : INFO] - WP: 5.4.2 
+[2020-07-14 17:34:25 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1106-aws #117-Ubuntu SMP Wed Apr 8 09:52:02 UTC 2020 x86_64) 
+[2020-07-14 17:34:25 : INFO] - MySQL: 8.0.17 
+[2020-07-14 17:34:25 : INFO] - WPLANG: pt_BR 
+[2020-07-14 17:34:25 : INFO] - Server: Apache 
+[2020-07-14 17:34:25 : INFO] - Outbound connections: N 
+[2020-07-14 17:34:25 : INFO] - safe_mode: 0 
+[2020-07-14 17:34:25 : INFO] - max_execution_time: 120000 
+[2020-07-14 17:34:25 : INFO] - memory_limit: 256M (used: 65.4M | 68M) 
+[2020-07-14 17:34:25 : INFO] - multisite: N 
+[2020-07-14 17:34:25 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2020-07-14 17:34:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-11-09 20:12:10 : INFO] - Re_Smush_It_Task with attachment ID : 394, autocreated on : November 09, 2020 08:12:10 
+[2020-11-09 20:17:33 : INFO] - 
+ 
+[2020-11-09 20:17:33 : INFO] - Header for logs at time:  Mon, 09 Nov 2020 20:17:33 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2020-11-09 20:17:33 : INFO] - WP: 5.5.3 
+[2020-11-09 20:17:33 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1114-aws #127-Ubuntu SMP Fri Sep 4 08:41:12 UTC 2020 x86_64) 
+[2020-11-09 20:17:33 : INFO] - MySQL: 8.0.17 
+[2020-11-09 20:17:33 : INFO] - WPLANG: pt_BR 
+[2020-11-09 20:17:33 : INFO] - Server: Apache 
+[2020-11-09 20:17:33 : INFO] - Outbound connections: N 
+[2020-11-09 20:17:33 : INFO] - safe_mode: 0 
+[2020-11-09 20:17:33 : INFO] - max_execution_time: 120000 
+[2020-11-09 20:17:33 : INFO] - memory_limit: 256M (used: 21.6M | 6M) 
+[2020-11-09 20:17:33 : INFO] - multisite: N 
+[2020-11-09 20:17:33 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2020-11-09 20:17:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-11-09 20:17:33 : INFO] - Set semaphore last lock (smush) time to 2020-11-09 20:17:33 
+[2020-11-09 20:17:33 : INFO] - Semaphore lock (smush) complete 
+[2020-11-09 20:17:33 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2020-11-09 20:17:33 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_file_type - /opt/bitnami/apps/wordpress/htdocs/origgami-site-base-v3/wp-content/uploads/2020/11/origgami-site-base-v3-book-de-teste-catalogo-lisht-2021-colecao-sonhos.pdf - cannot be optimized, it has an invalid file type 
+[2020-11-09 20:17:33 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-09 20:17:33 : INFO] - Semaphore (smush) unlocked 
+[2020-11-09 20:17:33 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-11-09 20:17:33 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-09 20:17:33 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-11-19 14:38:42 : INFO] - 
+ 
+[2020-11-19 14:38:42 : INFO] - Header for logs at time:  Thu, 19 Nov 2020 14:38:42 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2020-11-19 14:38:42 : INFO] - WP: 5.5.3 
+[2020-11-19 14:38:42 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1114-aws #127-Ubuntu SMP Fri Sep 4 08:41:12 UTC 2020 x86_64) 
+[2020-11-19 14:38:42 : INFO] - MySQL: 8.0.17 
+[2020-11-19 14:38:42 : INFO] - WPLANG: pt_BR 
+[2020-11-19 14:38:42 : INFO] - Server: Apache 
+[2020-11-19 14:38:42 : INFO] - Outbound connections: N 
+[2020-11-19 14:38:42 : INFO] - safe_mode: 0 
+[2020-11-19 14:38:42 : INFO] - max_execution_time: 120000 
+[2020-11-19 14:38:42 : INFO] - memory_limit: 256M (used: 68.8M | 16M) 
+[2020-11-19 14:38:42 : INFO] - multisite: N 
+[2020-11-19 14:38:42 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2020-11-19 14:38:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-12-10 21:48:26 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 18:53:53 : INFO] - Re_Smush_It_Task with attachment ID : 426, autocreated on : March 08, 2021 06:53:53 
+[2021-03-08 18:59:56 : INFO] - 
+ 
+[2021-03-08 18:59:56 : INFO] - Header for logs at time:  Mon, 08 Mar 2021 18:59:56 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2021-03-08 18:59:56 : INFO] - WP: 5.6.2 
+[2021-03-08 18:59:56 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1114-aws #127-Ubuntu SMP Fri Sep 4 08:41:12 UTC 2020 x86_64) 
+[2021-03-08 18:59:56 : INFO] - MySQL: 8.0.17 
+[2021-03-08 18:59:56 : INFO] - WPLANG: pt_BR 
+[2021-03-08 18:59:56 : INFO] - Server: Apache 
+[2021-03-08 18:59:56 : INFO] - Outbound connections: N 
+[2021-03-08 18:59:56 : INFO] - safe_mode: 0 
+[2021-03-08 18:59:56 : INFO] - max_execution_time: 120000 
+[2021-03-08 18:59:56 : INFO] - memory_limit: 256M (used: 71.1M | 14M) 
+[2021-03-08 18:59:56 : INFO] - multisite: N 
+[2021-03-08 18:59:56 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2021-03-08 18:59:56 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-03-08 18:59:56 : INFO] - Set semaphore last lock (smush) time to 2021-03-08 18:59:56 
+[2021-03-08 18:59:56 : INFO] - Semaphore lock (smush) complete 
+[2021-03-08 18:59:56 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2021-03-08 18:59:56 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 18:59:56 : INFO] - 100 
+[2021-03-08 18:59:58 : INFO] - Backing up the original image - 2020/12/origgami-site-base-v3-inicio-catalogo-2021-11-updraft-pre-smush-original.jpg 
+[2021-03-08 18:59:58 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 18:59:58 : INFO] - 100 
+[2021-03-08 18:59:59 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 18:59:59 : INFO] - 100 
+[2021-03-08 19:00:01 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:01 : INFO] - 100 
+[2021-03-08 19:00:02 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:02 : INFO] - 100 
+[2021-03-08 19:00:03 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:03 : INFO] - 100 
+[2021-03-08 19:00:05 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:05 : INFO] - 100 
+[2021-03-08 19:00:06 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:06 : INFO] - 100 
+[2021-03-08 19:00:06 : INFO] - Re_Smush_It_Task with attachment ID : 403, autocreated on : December 10, 2020 09:48:26 
+[2021-03-08 19:00:06 : INFO] - 100 
+[2021-03-08 19:00:07 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/origgami-site-base-v3/wp-content/uploads/2020/12/origgami-site-base-v3-inicio-catalogo-2021-11.jpg.The file was compressed from 144.74 KB to 140.55 KB saving 2.9 percent using WP-Optimize 
+[2021-03-08 19:00:07 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2021-03-08 19:00:07 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2021-03-08 19:00:07 : INFO] - Task with ID 43 and type (smush) failed with error code invalid_file_type - /opt/bitnami/apps/wordpress/htdocs/origgami-site-base-v3/wp-content/uploads/2021/03/origgami-site-base-v3-origgami-site-base-v3-book-de-teste-catalogo-lisht-2021-colecao-sonhos.pdf - cannot be optimized, it has an invalid file type 
+[2021-03-08 19:00:07 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-03-08 19:00:07 : INFO] - Semaphore (smush) unlocked 
+[2021-03-08 19:00:07 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-03-08 19:00:07 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-03-08 19:00:07 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-03-08 19:11:05 : INFO] - 
+ 
+[2021-03-08 19:11:05 : INFO] - Header for logs at time:  Mon, 08 Mar 2021 19:11:05 +0000 on http://homolog.origgami.com.br/origgami-site-base-v3 
+[2021-03-08 19:11:05 : INFO] - WP: 5.6.2 
+[2021-03-08 19:11:05 : INFO] - PHP: 7.3.9 (fpm-fcgi, Linux ip-172-31-9-253 4.4.0-1114-aws #127-Ubuntu SMP Fri Sep 4 08:41:12 UTC 2020 x86_64) 
+[2021-03-08 19:11:05 : INFO] - MySQL: 8.0.17 
+[2021-03-08 19:11:05 : INFO] - WPLANG: pt_BR 
+[2021-03-08 19:11:05 : INFO] - Server: Apache 
+[2021-03-08 19:11:05 : INFO] - Outbound connections: N 
+[2021-03-08 19:11:05 : INFO] - safe_mode: 0 
+[2021-03-08 19:11:05 : INFO] - max_execution_time: 120000 
+[2021-03-08 19:11:05 : INFO] - memory_limit: 256M (used: 71.1M | 2M) 
+[2021-03-08 19:11:05 : INFO] - multisite: N 
+[2021-03-08 19:11:05 : INFO] - openssl: OpenSSL 1.1.1c  28 May 2019 
+[2021-03-08 19:11:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-08-25 12:33:27 : INFO] - Re_Smush_It_Task with attachment ID : 594, autocreated on : August 25, 2022 12:33:27 
+[2022-09-04 19:12:02 : INFO] - 
+ 
+[2022-09-04 19:12:02 : INFO] - Header for logs at time:  Sun, 04 Sep 2022 19:12:02 +0000 on https://homolog3.origgami.com.br/origgami-site-base-v3 
+[2022-09-04 19:12:02 : INFO] - WP: 6.0.1 
+[2022-09-04 19:12:02 : INFO] - PHP: 7.4.30 (cgi-fcgi, Linux vmi770796 4.15.0-189-generic #200-Ubuntu SMP Wed Jun 22 19:53:37 UTC 2022 x86_64) 
+[2022-09-04 19:12:02 : INFO] - MySQL: 5.7.37 
+[2022-09-04 19:12:02 : INFO] - WPLANG: pt_BR 
+[2022-09-04 19:12:02 : INFO] - Server: Apache/2.4.29 (Ubuntu) 
+[2022-09-04 19:12:02 : INFO] - Outbound connections: N 
+[2022-09-04 19:12:02 : INFO] - safe_mode: 0 
+[2022-09-04 19:12:02 : INFO] - max_execution_time: 300 
+[2022-09-04 19:12:02 : INFO] - memory_limit: 512M (used: 24.3M | 16M) 
+[2022-09-04 19:12:02 : INFO] - multisite: N 
+[2022-09-04 19:12:02 : INFO] - openssl: OpenSSL 1.1.1  11 Sep 2018 
+[2022-09-04 19:12:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-09-04 19:12:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-09-04 19:12:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-09-04 19:12:02 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-09-04 19:12:02 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-09-04 19:12:02 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-09-04 19:12:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-09-04 19:12:02 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-09-04 19:12:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-09-05 13:45:13 : INFO] - 
+ 
+[2022-09-05 13:45:13 : INFO] - Header for logs at time:  Mon, 05 Sep 2022 13:45:13 +0000 on https://homolog3.origgami.com.br/origgami-site-base-v3 
+[2022-09-05 13:45:13 : INFO] - WP: 6.0.2 
+[2022-09-05 13:45:13 : INFO] - PHP: 7.4.30 (cgi-fcgi, Linux vmi770796 4.15.0-189-generic #200-Ubuntu SMP Wed Jun 22 19:53:37 UTC 2022 x86_64) 
+[2022-09-05 13:45:13 : INFO] - MySQL: 5.7.37 
+[2022-09-05 13:45:13 : INFO] - WPLANG: pt_BR 
+[2022-09-05 13:45:13 : INFO] - Server: Apache/2.4.29 (Ubuntu) 
+[2022-09-05 13:45:13 : INFO] - Outbound connections: N 
+[2022-09-05 13:45:13 : INFO] - safe_mode: 0 
+[2022-09-05 13:45:13 : INFO] - max_execution_time: 300 
+[2022-09-05 13:45:13 : INFO] - memory_limit: 512M (used: 24.4M | 2M) 
+[2022-09-05 13:45:13 : INFO] - multisite: N 
+[2022-09-05 13:45:13 : INFO] - openssl: OpenSSL 1.1.1  11 Sep 2018 
+[2022-09-05 13:45:13 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

@@ -1,0 +1,18 @@
+/* Floating notifications */
+
+.ags-ccjdev-notification {
+  margin-bottom : 30px;
+  @include notificationMixin();
+
+  &.ags-ccjdev-notification-success {
+    @include notificationMixin('success');
+    }
+
+  &.ags-ccjdev-notification-error {
+    @include notificationMixin('error');
+    }
+
+  &.ags-ccjdev-notification-warning {
+    @include notificationMixin('warning');
+    }
+  }

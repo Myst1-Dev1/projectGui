@@ -1,0 +1,76 @@
+#ags-ccjdev_license_key_form {
+  //border           : solid 1px #E0DFDF;
+  max-width        : 900px;
+  margin           : 20px auto 30px;
+  box-shadow       : 0 3px 25px 0 rgba(0, 0, 0, 0.16);
+  background-color : #FFF;
+  text-align       : left;
+
+  @media (min-width : 900px) {
+    display : flex;
+
+    #ags-ccjdev_license_key_form_logo_container {
+      flex  : initial;
+      width : 300px;
+      }
+    #ags-ccjdev_license_key_form_body {
+      flex : 1;
+      }
+    }
+
+  #ags-ccjdev_license_key_form_logo_container {
+    background-color : $agsDarkGrey;
+    display          : flex;
+    align-items      : center;
+    justify-content  : center;
+    min-height       : 175px;
+    padding          : 0 25px;
+
+    img {
+      max-width : 100%;
+      }
+    }
+
+  #ags-ccjdev_license_key_form_body {
+    padding : 40px 25px;
+
+    h3 {
+      font-size   : 23px;
+      font-weight : 700;
+      color       : $baseHeaderColor;
+      margin-top  : 0;
+      line-height : normal;
+
+      small {
+        font-weight : normal;
+        }
+      }
+    }
+
+  input[type=text] {
+    width : 100%;
+    }
+
+  input[type=submit], button {
+    @include formButtonMixin();
+    }
+
+  p.submit {
+    margin  : 20px 0 0 0;
+    padding : 0;
+    }
+
+  label span {
+    padding-right : 10px;
+    font-weight   : 600;
+    font-size     : 14px;
+
+    @media (min-width : $breakSmall) {
+      padding-top : 7px;
+      }
+    }
+  }
+
+#ags-ccjdev_license_key_form_error {
+  @include notificationMixin('error');
+  }

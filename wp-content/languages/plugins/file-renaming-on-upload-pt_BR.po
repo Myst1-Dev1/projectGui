@@ -1,0 +1,143 @@
+# Translation of Plugins - File Renaming on Upload - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - File Renaming on Upload - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-18 15:27:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - File Renaming on Upload - Stable (latest release)\n"
+
+#: classes/Options/Advanced/class-ignore-extensions-option.php:62
+msgid "Ignore file extensions"
+msgstr "Ignorar extensões"
+
+#. Description of the plugin
+#: file-renaming-on-upload.php:16
+msgid "Fixes file uploads with accents and special characters by renaming them. It also improves your SEO."
+msgstr "Acaba com o problema de subir arquivos com caracteres especiais e acentos. Além disso melhora o seu SEO"
+
+#: classes/WeDevs/class-wedevs-settings-api-original.php:379
+msgid "Choose File"
+msgstr "Escolher arquivo"
+
+#. Author of the plugin
+msgid "Pablo S G Pacheco"
+msgstr "Pablo S G Pacheco"
+
+#. Plugin Name of the plugin
+#: classes/Admin_Pages/class-settings-page.php:123
+msgid "File Renaming on upload"
+msgstr "File Renaming on upload"
+
+#: classes/Admin_Pages/class-settings-page.php:55
+msgid "General Settings"
+msgstr "Ajustes gerais"
+
+#: classes/Admin_Pages/class-settings-page.php:59
+msgid "Rules"
+msgstr "Regras"
+
+#: classes/Options/General/class-enable-option.php:60
+msgid "Enable plugin"
+msgstr "Ativar plugin"
+
+#: classes/Options/General/class-enable-option.php:61
+msgid "Enables the plugin"
+msgstr "Ativa o plugin"
+
+#: classes/Options/General/class-filename-structure-option.php:96
+msgid "Filename structure"
+msgstr "Estrutura do nome de arquivo"
+
+#: classes/Options/General/class-filename-structure-option.php:97
+msgid "Rules available:"
+msgstr "Regras disponíveis"
+
+#: classes/Options/General/class-permalink-update-option.php:129
+msgid "Update permalink"
+msgstr "Atualizar permalink"
+
+#: classes/Options/Rules/class-datetime-option.php:115
+msgid "Datetime"
+msgstr "Data e Hora"
+
+#: classes/Options/Rules/class-datetime-option.php:116
+msgid "Enables Datetime rule"
+msgstr "Ativa a regra Data e Hora"
+
+#: classes/Options/Rules/class-datetime-option.php:123
+msgid "Datetime format "
+msgstr "Formato da data e hora"
+
+#: classes/Options/Rules/class-datetime-option.php:123
+msgid "You can see more formats <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr "Você pode ver mais formatos <a target=\"_blank\" href=\"%s\">aqui</a>"
+
+#: classes/Options/Rules/class-datetime-option.php:123
+msgid "Result: <b>%s</b>"
+msgstr "Resultado: <b>%s</b>"
+
+#: classes/Options/Rules/class-filename-option.php:280
+msgid "Filename"
+msgstr "Nome de arquivo"
+
+#: classes/Options/Rules/class-filename-option.php:281
+msgid "Enables filename rule"
+msgstr "Ativa a regra de nome de arquivo"
+
+#: classes/Options/Rules/class-siteurl-option.php:116
+msgid "Enables site URL rule"
+msgstr "Ativa a regra URL do site"
+
+#: classes/Options/Rules/class-siteurl-option.php:123
+msgid "The site URL (Change it the way you like)"
+msgstr "A URL do site (Altere como desejar)"
+
+#: file-renaming-on-upload.php:55
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/Options/General/class-filename-structure-option.php:97
+msgid "Manages the filename structure using rules. If you want only the filename, leave it as <b>{filename}.</b>"
+msgstr "Gerencia a estrutura de nome de arquivo usando regras. Se você quiser usar apenas o nome do arquivo, deixe como <b>{filename}</b>"
+
+#: classes/Options/General/class-filename-structure-option.php:103
+msgid "Character(s) used to separate rules"
+msgstr "Caracter(es) usado(s) para separar as regras"
+
+#: classes/Options/General/class-permalink-update-option.php:130
+msgid "Updates attachment permalink following the filename structure"
+msgstr "Atualiza o permalink do arquivo seguinido a estrutura de nome de arquivo"
+
+#: classes/Options/Rules/class-filename-option.php:298
+msgid "Converts all filename accent characters to ASCII characters"
+msgstr "Converte todos os caracteres do nome do arquivo que possuem acento para caracteres ASCII"
+
+#: classes/Options/Rules/class-filename-option.php:299
+msgid "Converts all filename characters to lowercase"
+msgstr "Converte todos os caracteres do nome do arquivo para caixa baixa"
+
+#: classes/Options/Rules/class-filename-option.php:300
+msgid "Converts filename to post title whenever it is possible"
+msgstr "Converte o nome do arquivo para o título do post quando possível"
+
+#: classes/Options/Rules/class-post-title-option.php:93
+#: classes/Options/Rules/class-filename-option.php:300
+msgid "Post title"
+msgstr "Título do post"
+
+#: classes/Options/Rules/class-post-title-option.php:94
+msgid "Enables post title rule"
+msgstr "Ativa a regra do Título do post"
+
+#: classes/Options/Rules/class-post-title-option.php:95
+msgid "Adds post title whenever it is possible"
+msgstr "Adiciona o Título do post sempre que possível"
+
+#: classes/Options/Rules/class-siteurl-option.php:115
+msgid "Site URL"
+msgstr "URL do site"

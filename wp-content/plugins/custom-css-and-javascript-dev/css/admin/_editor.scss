@@ -1,0 +1,224 @@
+#ppccjd_post_css, #ppccjd_post_javascript {
+  display : none;
+  }
+
+#pp-custom-css-js-dev-iframe {
+  display : inline;
+  height  : 1px;
+  width   : 1px;
+  opacity : 0;
+  }
+
+#pp_custom_code_editor_dev .CodeMirror-matchingbracket {
+  color            : #F00;
+  font-weight      : bold;
+  background-color : #CCC;
+  }
+
+#pp-custom-css-js-dev-editor {
+  display        : flex;
+  flex-direction : row-reverse;
+  border         : 1px solid $middleBorderColor;
+  border-radius  : $mainRadius;
+
+  hr {
+    border-width : 0 0 1px 0;
+    border-color : $middleBorderColor;
+    margin       : 20px 0;
+    }
+  }
+
+#pp_custom_code_editor_dev {
+  flex-grow  : 1;
+  overflow-y : scroll;
+  }
+
+#pp-custom-css-js-dev-editor-sidebar {
+  padding    : 25px;
+  overflow-y : scroll;
+  background : #F9F9F9;
+  font-size  : 14px;
+  min-width  : 250px;
+
+  h4 {
+    margin-top    : 0;
+    margin-bottom : 10px;
+    }
+  }
+
+@media(max-width : 1200px) {
+  #pp-custom-css-js-dev-editor {
+    flex-wrap : wrap;
+    }
+
+  #pp-custom-css-js-dev-editor-sidebar, #pp_custom_code_editor_dev {
+    width    : 100%;
+    overflow : hidden;
+    }
+  }
+
+#pp-custom-css-js-dev-rename-wrapper {
+  display       : flex;
+  margin-bottom : 8px;
+
+  input {
+    width : 100%;
+    }
+
+  #pp-custom-css-js-dev-rename-ext {
+    height        : 38px;
+    width         : 38px;
+    min-width     : 38px;
+    line-height   : 38px !important;
+    font-size     : 14px;
+    text-align    : center;
+    background    : $agsMediumGreen;
+    color         : #FFF;
+    border-radius : 1px;
+    }
+  }
+
+#pp-custom-css-js-dev-rename-btn {
+  @include ccjdevButtonMixin();
+  width         : 100%;
+  display       : block;
+  margin-bottom : 15px;
+  }
+
+#pp-custom-css-js-dev-delete-revisions-btn {
+  @include ccjdevButtonMixin("delete");
+  width         : 100%;
+  display       : block;
+  margin-bottom : 15px;
+  }
+
+#pp_custom_css_js_dev_revisions {
+  max-height : 300px;
+  overflow-y : scroll;
+
+  @media (max-width : 1200px) {
+    max-height : 135px;
+    }
+
+  a.del-rev:hover {
+    color : $danger;
+    }
+  }
+
+#pp-custom-css-js-dev-editor-buttons-bottom {
+  margin          : 0 -10px;
+  display         : flex;
+  align-items     : center;
+  justify-content : space-between;
+
+  @media(max-width : 1200px) {
+    flex-wrap   : wrap;
+    align-items : center;
+    }
+
+  & > * {
+    padding : 10px;
+    }
+
+  button {
+    @include ccjdevButtonMixin();
+
+    &[disabled] {
+      opacity : 0.3;
+      }
+    }
+
+  #pp-custom-css-js-dev-delete-btn {
+    background-image    : url("../images/trash-alt-light.svg");
+    background-size     : 13px;
+    background-color    : $danger !important;
+    padding-left        : 26px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+
+    &:hover {
+      background-color : #E46261 !important;
+      }
+    }
+
+  #pp-custom-css-js-dev-download-btn {
+    background-image    : url("../images/arrow-alt-to-bottom-light.svg");;
+    background-size     : 12px;
+    padding-left        : 25px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+    }
+
+  #pp-custom-css-js-dev-download-all-btn {
+    background-image    : url("../images/download-light.svg");
+    background-size     : 15px;
+    padding-left        : 28px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+    }
+
+  #pp-custom-css-js-dev-upload-btn {
+    background-image    : url("../images/arrow-alt-to-top-light.svg");
+    background-size     : 12px;
+    padding-left        : 25px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+    }
+
+  #pp-custom-css-js-dev-editor-expand-btn {
+    background-image    : url("../images/expand-arrows-light.svg");
+    background-size     : 13px;
+    padding-left        : 27px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+    }
+
+  #pp-custom-css-js-dev-liveview-btn {
+    background-image    : url("../images/eye-regular.svg");
+    background-size     : 15px;
+    padding-left        : 26px;
+    background-repeat   : no-repeat;
+    background-position : 7px center;
+    }
+
+  }
+
+#pp_custom_css_js_dev_revisions {
+  margin-top : 5px;
+
+  li {
+    white-space : nowrap;
+    }
+  }
+
+#pp_custom_css_js_dev_page .nav-tab-wrapper {
+  border-bottom : none;
+  padding       : 0;
+
+  .nav-tab-new-file {
+    float : right;
+    }
+
+  .nav-tab-file.unsaved {
+    font-style : italic;
+    }
+
+  a {
+    border        : none;
+    border-radius : 3px;
+
+    &:focus {
+      box-shadow : none !important;
+      }
+
+    &:not(.nav-tab-active):hover {
+      color            : #FFF;
+      background-color : $agsLightGrey;
+      }
+
+    &.nav-tab-active {
+      color            : #FFF;
+      background-color : $agsGreen;
+      }
+    }
+  }

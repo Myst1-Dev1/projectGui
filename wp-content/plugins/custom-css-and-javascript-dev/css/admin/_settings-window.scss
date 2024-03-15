@@ -1,0 +1,52 @@
+/*  Settings container */
+#ags-ccjdev-settings-container {
+  margin : 30px 20px;
+  }
+
+/*  Settings window */
+#ags-ccjdev-settings {
+  border-radius      : $mainRadius;
+  font-weight        : normal;
+  -webkit-transition : all ease-in .3s;
+  transition         : all ease-in .3s;
+  font-size          : 16px;
+  line-height        : 1.6;
+  font-family        : $fontGeneral;
+  position           : relative;
+  overflow           : hidden;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family : $fontGeneral;
+    line-height : 1.2;
+    }
+
+  form > input[type=submit] {
+    @include formButtonMixin("primary");
+    margin    : 25px 0 0;
+    padding   : 10px 25px !important;
+    font-size : 17px;
+    }
+  }
+
+/* Settings tab content */
+#ags-ccjdev-settings-tabs-content {
+  box-shadow       : $boxShadow;
+  background-color : #FFF;
+  padding          : 20px;
+  position         : relative;
+  min-height       : 200px;
+
+  p {
+    margin-top : 0;
+    }
+
+  & > div[id^="ags-ccjdev-settings"] {
+    display : none;
+    }
+
+  & > div.ags-ccjdev-settings-active {
+    display : block !important;
+    }
+  }
+
+

@@ -1,0 +1,65 @@
+1.0.18, August 27, 2022
+- Fix: Incompatibility with PHP 8
+- Fix: issues with plugin updates and license key deactivation
+- Fix: Errors in the JavaScript related to revisions
+
+1.0.17, August 24, 2022
+- Fix: remove Gitlab Plugin URI from plugin header to avoid conflicts with GitHub CRON jobs
+
+1.0.16, October 15, 2021
+- Fix: Revisions list does not scroll when it is long
+- Added license.txt file
+
+1.0.15, September 14, 2021
+- Change site URL in updater for Divi Space product version
+
+1.0.14, May 28 2021
+- Fix: problems with activating and deactivating license key
+
+1.0.13
+- Add AGS Info tag to the plugin header
+
+1.0.12
+- Fixed CSRF vulnerability
+- Update licensing to GPLv3+
+
+1.0.11
+- Fixed error when deleting a CSS/SCSS tab, all CSS/SCSS tab(s) are empty, and there is at least one SCSS tab
+
+1.0.10
+- Added fix for conflict with other plugin(s) that use the same SCSS library
+
+1.0.9
+- Disabled work-in-progress code
+
+1.0.8
+- Fix issue with backslashes in CSS
+
+1.0.7
+- Addresses issue when saving SCSS
+
+1.0.6
+- Fixes related to publishing and deleting "files"
+
+1.0.5
+- Fixed bug with publishing
+
+1.0.4
+- Custom TinyMCE CSS should now load last (after all/most other TinyMCE stylesheets)
+- Removed TinyMCE checkbox from the custom JavaScript editor
+
+1.0.3
+- Fixed issue with backslashes before quotes (escaped quotes) in output
+- Fixed issue with publishing single "files"
+- Fixed UI issue with loading screen
+- Added option to applying styles to the TinyMCE editor
+
+1.0.2
+- Fixed issue with backslashes in code
+
+1.0.1
+- Added search functionality to code editor
+- Added bracket matching to code editor
+
+1.0.0
+- Initial release

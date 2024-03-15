@@ -1,0 +1,109 @@
+#ags-ccjdev-settings {
+
+  // Label
+  label {
+    display : block;
+    cursor  : default;
+
+    span.label {
+      @include formLabelMixin();
+      box-sizing    : border-box;
+      cursor        : default;
+      display       : block;
+      margin-bottom : 10px;
+      }
+
+    @media (min-width : $breakSmall) {
+      display : flex;
+
+      span.label {
+        width        : 20%;
+        margin-right : 20px;
+        }
+
+      // Input forms
+      input[type=email], input[type=password], input[type=tel], input[type=text], input[type=number], select, textarea {
+        flex : 1;
+        }
+      }
+    }
+
+  // Input forms
+  input[type=email], input[type=password], input[type=tel], input[type=text], input[type=number], select {
+    @include formInputMixin();
+    margin : 0;
+    }
+
+  input[type=number] {
+    padding : 0 0 0 10px !important;
+    }
+
+  // Textarea
+  textarea {
+    @include formTextareaMixin();
+    }
+
+  // Button
+  input[type=submit], button {
+    //@include formButtonMixin();
+    //line-height : normal !important;
+    }
+
+  // Radio button
+  input[type="radio"] {
+    @include formRadioMixin();
+    }
+
+  // Checkbox
+  input[type="checkbox"] {
+    @include formCheckboxMixin();
+    }
+
+  /* Checkboxes list */
+  .ags-ccjdev-settings-cb-list {
+
+    &:not(:last-child) {
+      margin-bottom : 10px;
+      }
+
+    input[type=checkbox] {
+      margin-right : 10px;
+      }
+
+    label.ags-ccjdev-settings-cb-list-title {
+      margin-bottom : 0;
+
+      span {
+        width : 100%;
+        }
+      }
+
+    label.ags-ccjdev-settings-cb-list-item {
+      align-items   : center;
+      margin-bottom : 15px;
+
+      span {
+        font-weight   : normal;
+        font-size     : 15px;
+        padding       : 0;
+        display       : inline-block;
+        margin-bottom : 0;
+        }
+      }
+
+    @media (min-width : $breakSmall) {
+      display : flex;
+
+      label.ags-ccjdev-settings-cb-list-title {
+        width         : 20%;
+        margin-right  : 20px;
+        margin-bottom : 0;
+        }
+
+      // Input forms
+      .ags-ccjdev-settings-cb-list-content {
+        flex : 1;
+        }
+      }
+    }
+  }

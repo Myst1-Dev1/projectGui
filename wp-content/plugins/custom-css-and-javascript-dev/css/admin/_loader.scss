@@ -1,0 +1,50 @@
+
+#pp_custom_css_js_dev_loader {
+  position         : absolute;
+  width            : 100%;
+  height           : 100%;
+  left             : 0;
+  top              : 0;
+  background-color : rgba(61, 59, 56, 0.8);
+  z-index          : 999999;
+
+  label {
+    display       : block;
+    margin-top    : 20px;
+    margin-bottom : 20px;
+    font-size     : 16px;
+    line-height   : 1.5em;
+    }
+
+  input {
+    width      : 100%;
+    margin-top : 10px;
+    font-size  : 18px;
+    }
+
+  button {
+    font-size : 18px;
+    }
+
+  .loader {
+    margin  : 0 auto 15px;
+    display : block;
+    }
+  }
+
+#pp_custom_css_js_dev_loader_inner {
+  color           : #FFF;
+  display         : flex;
+  justify-content : center;
+  align-items     : center;
+  height          : 100%;
+  }
+
+#pp-ccjdev-loader-title, #pp-ccjdev-activate-title {
+  margin      : 0;
+  color       : #FFF;
+  font-size   : 22px;
+  line-height : 1.5em;
+  font-weight : bold;
+  text-align  : center;
+  }
